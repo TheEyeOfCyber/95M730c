@@ -14,7 +14,7 @@ Tested on last Kali Linux Version 5.15.0-kali2-amd64 + Ubuntu Jammy Jellyfish (d
 •Rtl-sdr with antenna (or) Hackrfone
 </p2>
 <h2> Installation </h2>
-```
+
 git clone https://github.com/TheEyeOfCyber/95M730c/
 sudo apt-get install python-pyshark
 
